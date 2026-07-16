@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Mehrael Boutros
+<p align="center">
+  <img src="profile.jpg" width="180" style="border-radius:50%;">
+</p>
 
 ## Data Analyst | SQL | Power BI | Python | Excel | Tableau
 
