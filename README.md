@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mehrael Boutros
 
-## Data Analyst | SQL | Power BI | Python | Excel
+## Data Analyst | SQL | Power BI | Python | Excel | Tableau
 
 Welcome to my GitHub portfolio!
 
