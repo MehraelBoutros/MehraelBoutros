@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mehrael Boutros
-<p align="center">
-  <img src="profile.jpg" width="180" style="border-radius:50%;">
-</p>
+<img width="1200" height="1600" alt="WhatsApp Image 2026-07-16 at 5 44 44 PM" src="https://github.com/user-attachments/assets/1293b95a-2afa-4239-acd5-8572d960c508" />
+
 
 ## Data Analyst | SQL | Power BI | Python | Excel | Tableau
 
