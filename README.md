@@ -8,13 +8,17 @@ I'm a Data Analyst passionate about transforming raw data into actionable insigh
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 📊 Data Analyst passionate about data-driven decision making.
-- 📈 Experienced in SQL, Python, Excel, and Power BI.
-- 🧹 Skilled in Data Cleaning, Data Preprocessing, and Exploratory Data Analysis (EDA).
-- 📉 Build interactive dashboards and KPI reports.
-- 🌱 Continuously learning and building end-to-end analytics projects.
+Welcome to my Data Analytics portfolio!
+
+I am an aspiring Data Analyst passionate about leveraging data to solve real-world business problems and support strategic decision-making. I enjoy working across the entire analytics workflow, from data cleaning and preprocessing to exploratory data analysis, SQL querying, KPI development, and interactive dashboard creation.
+
+Throughout my learning journey, I have developed multiple end-to-end analytics projects using SQL, Python, Excel, and Power BI. These projects have strengthened my ability to clean and transform raw datasets, perform in-depth analysis, identify trends and patterns, and communicate insights through professional dashboards and reports.
+
+My technical expertise includes SQL, Python (Pandas, NumPy, Matplotlib), Excel, Power BI, DAX, Power Query, data modeling, and business intelligence concepts. I am passionate about continuous learning and always strive to improve my analytical thinking, technical skills, and ability to transform complex data into clear, actionable insights.
+
+This portfolio reflects my commitment to learning, problem-solving, and building practical projects that demonstrate my capabilities as a Data Analyst. I am excited to continue growing in the field and contribute to data-driven organizations.
 
 ---
 
@@ -35,6 +39,7 @@ I'm a Data Analyst passionate about transforming raw data into actionable insigh
 - Excel
 - DAX
 - Power Query
+- Tableau
 
 ### Database
 - SQLite
@@ -54,6 +59,7 @@ I'm a Data Analyst passionate about transforming raw data into actionable insigh
 - GitHub
 - Microsoft Excel
 - Microsoft Office
+- Word
 
 ---
 
